@@ -1,0 +1,8 @@
+value es solo para programacion, que me cargue el valor que traigo de la base de datos
+
+readonly: para solo lectura
+disabled: para deshabilitar el campo
+size="": para darle tamaño al cuadro donde ingreso la info
+maxlength="": para limitar la cantidad de caracteres a ingresar
+required: para campo obligatorio
+
